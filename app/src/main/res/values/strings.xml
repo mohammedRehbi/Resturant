@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Hotel</string>
+    -
+    <string name="show_all_customers">Show All customers</string>
+    <string name="view_available_room">View Available room</string>
+    <string-array name="choices">
+
+        <item>Select purpose of visit</item>
+
+        <item>Tourism</item>
+
+        <item>Business</item>
+
+        <item>Immigration</item>
+
+        <item>Other</item>
+
+    </string-array>
+    <string-array name="type">
+
+        <item>Customer</item>
+        <item>Manager</item>
+        <item>Chef</item>
+        <item>Delivery Employer</item>
+
+
+    </string-array>
+</resources>
